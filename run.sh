@@ -1,0 +1,1 @@
+docker run -i -t 45ba27cacf9a java -jar /cryptoproxy-0.0.1-SNAPSHOT.jar
